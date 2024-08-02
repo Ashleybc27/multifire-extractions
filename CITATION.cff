@@ -1,0 +1,14 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Cale
+  given-names: Ash B.
+  orcid: "https://orcid.org/0009-0003-3539-5209"
+- family-names: Bagcilar
+  given-names: Seren
+  orcid: "https://orcid.org/0009-0000-8753-7588"
+title: "Multi-fire extractions"
+version: 1.0.1
+doi: 10.5281/zenodo.13174285
+date-released: 2024-8-02
+url: "https://github.com/Ashleybc27/multifire-extractions"
